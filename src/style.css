@@ -1,0 +1,15 @@
+.bOne{
+    width: 250px;
+    height: 250px;
+    background-color: orange;
+
+    float: left;
+}
+
+.bTwo{
+    width: 250px;
+    height: 250px;
+    background-color: orangered;
+
+    float: left;
+}
